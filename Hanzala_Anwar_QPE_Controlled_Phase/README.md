@@ -19,10 +19,7 @@ This repository implements QPE in Qiskit for `U = CP(phi)` with eigenvector `|11
 1. Upload the notebook to Colab or open it from GitHub.
 2. Run the dependency installation cell.
 3. Run all cells in order.
-4. Download the generated PNG and CSV files and place report figures in `report/figures/`.
+4. Download the generated PNG and CSV files
 
 ## Reproducibility
 The notebook fixes simulator and transpiler seeds. Package ranges are listed in `requirements.txt`.
-
-## Academic note
-The student should read the report, rerun every experiment, and be prepared to explain multi-controlled phase construction, inverse QFT ordering, finite-precision effects, and the noise results.
